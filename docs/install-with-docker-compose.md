@@ -1,7 +1,7 @@
 ---
-id: install-with-docker
-title: Install with Docker
-sidebar_label: Install with Docker
+id: install-with-docker-compose
+title: Install with docker-compose
+sidebar_label: Install with docker-compose
 ---
 
 Download Vuls's [docker-compose.yaml](https://github.com/future-architect/vuls/tree/master/setup/docker/)
